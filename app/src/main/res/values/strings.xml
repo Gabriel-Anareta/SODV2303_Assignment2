@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="title1">First to Fall</string>
+    <string name="title2">Far Away</string>
+    <string name="title3">A Look Above</string>
+    <string name="author1">Baek Jiheon</string>
+    <string name="author2">Song Hayoung</string>
+    <string name="author3">Song Hayoung</string>
+    <string name="date1">2022</string>
+    <string name="date2">2023</string>
+    <string name="date3">2023</string>
+</resources>
